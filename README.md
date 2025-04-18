@@ -23,3 +23,6 @@ o	The data was split into training and test sets (70% for training, 30% for test
 o	Feature scaling was applied using StandardScaler to ensure that the model was not biased toward any particular feature due to scale differences.
 •	Training the Model:
 o	We trained the Random Forest Classifier on the training data using the scaled features.
+
+RESULT
+![Screenshot 2025-04-18 150757](https://github.com/user-attachments/assets/0f377d00-4d23-49a2-92bc-6d159d1d1d4c)
